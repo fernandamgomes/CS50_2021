@@ -3,8 +3,7 @@
 #include <math.h>
 #include <string.h>
 
-// program that first asks the user how much change is owed and then prints the minimum number of coins with which that change can be made
-
+// program that calculates the minimum number of coins required to give a user change
 int main(void)
 {
     //VARIÁVEIS
