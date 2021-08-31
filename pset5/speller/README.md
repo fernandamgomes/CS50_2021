@@ -1,4 +1,4 @@
-# Instructions: Filter (less)
+# Instructions: Speller
 
 
 ## Specification
