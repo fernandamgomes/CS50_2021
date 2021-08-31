@@ -1,3 +1,5 @@
+# Implement a program that computes the approximate grade level needed to comprehend some text
+
 texto = str(input("Text: "))
 letras = frases = 0
 palavras = 1
