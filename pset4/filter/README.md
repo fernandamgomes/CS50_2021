@@ -1,13 +1,6 @@
 # Filter (less) Instructions
 
 
-## tl;dr
-Implement a program that applies filters to BMPs, per the below.
-```
-$ ./filter -r image.bmp reflected.bmp
-```
-
-
 ## Specification
 Implement the functions in `helpers.c` such that a user can apply grayscale sepia, reflection, or blur filters to their images.
 - The function `grayscale` should take an image and turn it into a black-and-white version of the same image.
