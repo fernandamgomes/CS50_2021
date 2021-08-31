@@ -1,3 +1,4 @@
+# Implement a program that calculates the minimum number of coins required to give a user change.
 # Input positivo do usuário
 dolar = 0
 while (dolar <=0):
